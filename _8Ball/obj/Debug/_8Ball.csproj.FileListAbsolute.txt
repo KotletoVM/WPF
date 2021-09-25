@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\bin\Debug\_8Ball.exe.config
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\bin\Debug\_8Ball.exe
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\bin\Debug\_8Ball.pdb
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball_MarkupCompile.lref
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball.g.resources
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball.exe
+D:\other\бонч\трпо\WPF\WPF_XAML\_8Ball\obj\Debug\_8Ball.pdb

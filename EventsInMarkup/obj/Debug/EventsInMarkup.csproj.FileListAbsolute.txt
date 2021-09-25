@@ -1,0 +1,15 @@
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\bin\Debug\EventsInMarkup.exe.config
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\bin\Debug\EventsInMarkup.exe
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\bin\Debug\EventsInMarkup.pdb
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.g.resources
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.exe
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.pdb
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup.csprojAssemblyReference.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\EventsInMarkup\obj\Debug\EventsInMarkup_MarkupCompile.lref

@@ -1,0 +1,15 @@
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\bin\Debug\Samost.exe.config
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\bin\Debug\Samost.exe
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\bin\Debug\Samost.pdb
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.csprojAssemblyReference.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost_MarkupCompile.lref
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.g.resources
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.exe
+D:\other\бонч\трпо\WPF\WPF_XAML\Samost\obj\Debug\Samost.pdb
