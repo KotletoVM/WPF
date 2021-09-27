@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.g.resources
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\bin\Debug\Var2.exe.config
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\bin\Debug\Var2.exe
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\bin\Debug\Var2.pdb
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.exe
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.pdb
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\Var2\obj\Debug\Var2.csprojAssemblyReference.cache

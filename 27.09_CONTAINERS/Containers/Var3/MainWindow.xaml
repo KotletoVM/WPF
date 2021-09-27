@@ -1,0 +1,19 @@
+﻿<Window x:Class="Var3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var3"
+        mc:Ignorable="d"
+        Title="Вариант 3" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <WrapPanel Height="Auto" VerticalAlignment="Top" Width="Auto" DockPanel.Dock="Top" Orientation="Horizontal">
+            <Label Content="Всем привет"/>
+            <TextBox Height="23" TextWrapping="Wrap" Text="TextBox" Margin="20,0,0,0" IsEnabled="False"/>
+            <TextBox Height="23" TextWrapping="Wrap" Text="TextBox" Margin="20,0,0,0" IsEnabled="False"/>
+            <TextBox Height="23" TextWrapping="Wrap" Text="TextBox" Margin="20,0,0,0" IsEnabled="False"/>
+        </WrapPanel>
+        <Button DockPanel.Dock="Bottom" Content="Очистить" VerticalAlignment="Top" Click="Button_Click" />
+        <TextBox x:Name="textBox"  DockPanel.Dock="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+    </DockPanel>
+</Window>

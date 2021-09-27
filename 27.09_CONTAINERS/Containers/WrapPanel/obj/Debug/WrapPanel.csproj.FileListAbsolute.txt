@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\bin\Debug\WrapPanel.exe.config
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\bin\Debug\WrapPanel.exe
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\bin\Debug\WrapPanel.pdb
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.csprojAssemblyReference.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.g.resources
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.exe
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\WrapPanel\obj\Debug\WrapPanel.pdb

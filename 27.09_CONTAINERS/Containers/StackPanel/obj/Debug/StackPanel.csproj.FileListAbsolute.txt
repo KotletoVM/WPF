@@ -1,0 +1,13 @@
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\bin\Debug\StackPanel.exe.config
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\bin\Debug\StackPanel.exe
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\bin\Debug\StackPanel.pdb
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel.g.resources
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel.exe
+D:\other\бонч\трпо\WPF\WPF\27.09_CONTAINERS\Containers\StackPanel\obj\Debug\StackPanel.pdb
