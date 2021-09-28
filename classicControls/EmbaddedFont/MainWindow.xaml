@@ -1,0 +1,9 @@
+﻿<Window x:Class="EmbaddedFont.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Встраивание шрифтов в сборку" Height="77" Width="300">
+    <Grid>
+        <TextBox FontFamily="Algerian" FontSize="25">This is embadded
+font</TextBox>
+    </Grid>
+</Window>

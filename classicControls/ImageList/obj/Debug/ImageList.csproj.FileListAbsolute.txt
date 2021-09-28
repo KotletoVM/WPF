@@ -1,0 +1,13 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\bin\Debug\ImageList.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\bin\Debug\ImageList.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\bin\Debug\ImageList.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\ImageList\obj\Debug\ImageList.pdb

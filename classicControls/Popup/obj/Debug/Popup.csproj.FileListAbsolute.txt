@@ -1,0 +1,13 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\bin\Debug\Popup.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\bin\Debug\Popup.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\bin\Debug\Popup.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\Popup\obj\Debug\Popup.pdb

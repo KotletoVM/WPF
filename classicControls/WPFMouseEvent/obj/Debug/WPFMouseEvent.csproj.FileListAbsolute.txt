@@ -1,0 +1,13 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\bin\Debug\WPFMouseEvent.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\bin\Debug\WPFMouseEvent.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\bin\Debug\WPFMouseEvent.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFMouseEvent\obj\Debug\WPFMouseEvent.pdb

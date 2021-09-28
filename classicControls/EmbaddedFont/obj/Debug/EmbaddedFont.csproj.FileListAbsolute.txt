@@ -1,0 +1,13 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\bin\Debug\EmbaddedFont.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\bin\Debug\EmbaddedFont.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\bin\Debug\EmbaddedFont.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\EmbaddedFont\obj\Debug\EmbaddedFont.pdb

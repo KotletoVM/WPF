@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\bin\Debug\MouseCapture.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\bin\Debug\MouseCapture.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\bin\Debug\MouseCapture.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\MouseCapture\obj\Debug\MouseCapture.csprojAssemblyReference.cache

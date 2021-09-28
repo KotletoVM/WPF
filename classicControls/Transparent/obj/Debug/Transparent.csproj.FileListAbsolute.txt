@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\bin\Debug\Transparent.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\bin\Debug\Transparent.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\bin\Debug\Transparent.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent_MarkupCompile.lref
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\Transparent\obj\Debug\Transparent.pdb

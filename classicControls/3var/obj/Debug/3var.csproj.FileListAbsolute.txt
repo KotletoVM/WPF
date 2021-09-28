@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\bin\Debug\3var.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\bin\Debug\3var.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\bin\Debug\3var.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var_MarkupCompile.lref
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\_3var.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\3var\obj\Debug\3var.pdb

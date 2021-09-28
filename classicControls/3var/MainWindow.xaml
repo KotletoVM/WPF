@@ -1,0 +1,77 @@
+﻿<Window x:Class="_3var.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3var"
+        mc:Ignorable="d"
+        Title="TreeView" Height="453.35" Width="800">
+    <StackPanel>
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center">Автомобили</TextBlock>
+        <TreeView HorizontalAlignment="Left" Height="385" Margin="10,10,0,0" VerticalAlignment="Top" Width="755">
+            <TreeViewItem Header="Американские">
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\chevrolet.png" Stretch="Fill"/>
+                            <TextBlock VerticalAlignment="Center">Chevrolet</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\cadillac.png" Stretch="Fill"/>
+                            <TextBlock VerticalAlignment="Center">Cadillac</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Японские">
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\acura.png"/>
+                            <TextBlock VerticalAlignment="Center">Acura</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\toyota.png"/>
+                            <TextBlock VerticalAlignment="Center">Toyota</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\mazda.png"/>
+                            <TextBlock VerticalAlignment="Center">Mazda</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Немецкие">
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\volkswagen.png"/>
+                            <TextBlock VerticalAlignment="Center">Volkswagen</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="40" Source="D:\other\бонч\трпо\WPF\WPF\classicControls\3var\img\audi.png"/>
+                            <TextBlock VerticalAlignment="Center">Audi</TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+            </TreeViewItem>
+        </TreeView>
+
+    </StackPanel>
+</Window>

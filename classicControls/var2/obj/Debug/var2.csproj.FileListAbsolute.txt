@@ -1,0 +1,15 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\bin\Debug\var2.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\bin\Debug\var2.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\bin\Debug\var2.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2_MarkupCompile.lref
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\var2\obj\Debug\var2.csprojAssemblyReference.cache

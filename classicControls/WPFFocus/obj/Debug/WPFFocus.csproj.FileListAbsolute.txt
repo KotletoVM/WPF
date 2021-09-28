@@ -1,0 +1,13 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\bin\Debug\WPFFocus.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\bin\Debug\WPFFocus.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\bin\Debug\WPFFocus.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\WPFFocus\obj\Debug\WPFFocus.pdb

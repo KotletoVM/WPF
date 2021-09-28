@@ -1,0 +1,14 @@
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\bin\Debug\TextBox.exe.config
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\bin\Debug\TextBox.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\bin\Debug\TextBox.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\MainWindow.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\App.g.cs
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox_MarkupCompile.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox_MarkupCompile.lref
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\MainWindow.baml
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox.g.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox.exe
+D:\other\бонч\трпо\WPF\WPF\classicControls\TextBox\obj\Debug\TextBox.pdb

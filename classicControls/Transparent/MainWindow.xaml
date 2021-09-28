@@ -1,0 +1,23 @@
+﻿<Window x:Class="Transparent.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+ xmlns:mc="http://schemas.openxmlformats.org/markupcompatibility/2006"
+ xmlns:local="clr-namespace:Transparent"
+ Title="MainWindow" Height="331" Width="529">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="D:\downloads3\gifbumery_kotyonok.gif"/>
+        </Grid.Background>
+        <Button Width="100" Height="100" Margin="234,116,187,84" Opacity="0.9" Background="Green"
+ Foreground="Black"></Button>
+        <!--Opacity - свойство устанавливающее непрозрачность элемента. 1
+- полностью непрозрачный 0 - полностью прозрачный.-->
+        <Button Name="textBox1"
+ Height="92"
+ Opacity="0.5"
+ Margin="181,68,240,140"
+ Background="White"
+ Foreground="Blue"/>
+    </Grid>
+</Window>
