@@ -1,0 +1,21 @@
+﻿<Window x:Class="Var1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var1"
+        mc:Ignorable="d"
+        Title="Решение квадратного управления" Height="244.541" Width="337.717">
+    <Grid>
+        <Label Content="x^2 + " HorizontalAlignment="Left" Margin="62,10,0,0" VerticalAlignment="Top" Height="27"/>
+        <Label Content="x + " HorizontalAlignment="Left" Margin="179,10,0,0" VerticalAlignment="Top" Height="27"/>
+        <Label Content=" = 0" HorizontalAlignment="Left" Margin="276,10,0,0" VerticalAlignment="Top" Width="50"/>
+        <TextBox x:Name="a" HorizontalAlignment="Left" Height="28" Margin="0,10,0,0" TextWrapping="Wrap" Text="a"  VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="b" HorizontalAlignment="Left" Height="28" Margin="107,10,0,0" TextWrapping="Wrap" Text="b" VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="c" HorizontalAlignment="Left" Height="26" Margin="214,10,0,0" TextWrapping="Wrap" Text="c" VerticalAlignment="Top" Width="57"/>
+        <Button Content="Рассчитать" HorizontalAlignment="Center"  Margin="0,-70,0,0" Width="75" Height="28" Click="Button_Click"/>
+        <TextBlock x:Name="textBlockD" HorizontalAlignment="Left" Margin="10,101,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="37" Width="310"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,143,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="61" Width="310"/>
+
+    </Grid>
+</Window>

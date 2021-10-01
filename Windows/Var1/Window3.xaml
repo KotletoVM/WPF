@@ -1,0 +1,57 @@
+﻿<Window x:Class="Var1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var1"
+        mc:Ignorable="d"
+        Title="Работа со спискамии" Height="606.328" Width="800">
+    <UniformGrid Columns="2" Rows="3">
+        <ListBox SelectionMode="Single">
+            <ListBoxItem>1 элемент</ListBoxItem>
+            <ListBoxItem>2 элемент</ListBoxItem>
+            <ListBoxItem>3 элемент</ListBoxItem>
+            <ListBoxItem>4 элемент</ListBoxItem>
+        </ListBox>
+        <ListBox SelectionMode="Multiple">
+            <ListBoxItem>1 элемент</ListBoxItem>
+            <ListBoxItem>2 элемент</ListBoxItem>
+            <ListBoxItem>3 элемент</ListBoxItem>
+            <ListBoxItem>4 элемент</ListBoxItem>
+        </ListBox>
+        <ListBox SelectionMode="Extended">
+            <ListBoxItem>1 элемент</ListBoxItem>
+            <ListBoxItem>2 элемент</ListBoxItem>
+            <ListBoxItem>3 элемент</ListBoxItem>
+            <ListBoxItem>4 элемент</ListBoxItem>
+        </ListBox>
+        <StackPanel>
+            <RadioButton Content="1 элемент"></RadioButton>
+            <RadioButton Content="2 элемент"></RadioButton>
+            <RadioButton Content="3 элемент"></RadioButton>
+            <RadioButton Content="4 элемент"></RadioButton>
+        </StackPanel>
+        <ComboBox Margin="0,0,0,163" Text="Выпадающий список">
+            <ComboBoxItem>1 элемент</ComboBoxItem>
+            <ComboBoxItem>2 элемент</ComboBoxItem>
+            <ComboBoxItem>3 элемент</ComboBoxItem>
+            <ComboBoxItem>4 элемент</ComboBoxItem>
+        </ComboBox>
+        <DockPanel>
+            <ListBox x:Name="list" DockPanel.Dock="Top">
+                <ListBoxItem>1 элемент</ListBoxItem>
+                <ListBoxItem>2 элемент</ListBoxItem>
+                <ListBoxItem>3 элемент</ListBoxItem>
+                <ListBoxItem>4 элемент</ListBoxItem>
+            </ListBox>
+            <WrapPanel Orientation="Horizontal" DockPanel.Dock="Bottom" >
+                <TextBox x:Name="el" Text="название элемента" Margin="0,0,10,0" TextChanged="el_TextChanged"/>
+                <Button x:Name="add" Content="Add" Margin="0,0,10,0" Click="add_Click"/>
+                <Button x:Name="clear" Content="Clear" Margin="0,0,10,0" Click="clear_Click"/>
+                <Button x:Name="insert" Content="Insert" Margin="0,0,10,0" Click="insert_Click"/>
+                <Button x:Name="remove" Content="Remove" Margin="0,0,10,0" Click="remove_Click"/>
+                <Button x:Name="removeat" Content="RemoveAt" Margin="0,0,10,0" Click="removeat_Click"/>
+            </WrapPanel>
+        </DockPanel>
+    </UniformGrid>
+</Window>

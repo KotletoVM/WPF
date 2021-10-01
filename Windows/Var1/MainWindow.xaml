@@ -1,0 +1,16 @@
+﻿<Window x:Class="Var1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Var1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="221.092" Width="262.903">
+    <StackPanel Orientation ="Vertical" HorizontalAlignment="Stretch" >
+        <Button x:Name="but1" Content="Расчет среднего арифметического" Margin="0,20,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Top" Click="but1_Click"/>
+        <Button x:Name="but2" Content="Решение квадратного управления" Margin="0,20,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Top"  Click="but2_Click"/>
+        <Button x:Name="but3" Content="Работа со списками" Margin="0,20,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Top"  Click="but3_Click"/>
+        <Button x:Name="but4" Content="Работа с файлами" Margin="0,20,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Top"  Click="but4_Click"/>
+
+    </StackPanel>
+</Window>

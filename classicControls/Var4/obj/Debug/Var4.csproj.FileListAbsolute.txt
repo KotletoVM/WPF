@@ -12,3 +12,4 @@ D:\other\бонч\трпо\WPF\WPF\classicControls\Var4\obj\Debug\Var4.csproj.Ge
 D:\other\бонч\трпо\WPF\WPF\classicControls\Var4\obj\Debug\Var4.csproj.CoreCompileInputs.cache
 D:\other\бонч\трпо\WPF\WPF\classicControls\Var4\obj\Debug\Var4.exe
 D:\other\бонч\трпо\WPF\WPF\classicControls\Var4\obj\Debug\Var4.pdb
+D:\other\бонч\трпо\WPF\WPF\classicControls\Var4\obj\Debug\Var4.csprojAssemblyReference.cache
