@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API1", "API1\API1.csproj", "{EF98F495-3EE0-48E6-AC24-84F9A118CB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToursWebApi", "ToursWebApi\ToursWebApi.csproj", "{B2D08536-99C9-4713-AA61-97A2D33C13AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF98F495-3EE0-48E6-AC24-84F9A118CB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF98F495-3EE0-48E6-AC24-84F9A118CB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF98F495-3EE0-48E6-AC24-84F9A118CB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF98F495-3EE0-48E6-AC24-84F9A118CB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D08536-99C9-4713-AA61-97A2D33C13AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D08536-99C9-4713-AA61-97A2D33C13AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D08536-99C9-4713-AA61-97A2D33C13AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D08536-99C9-4713-AA61-97A2D33C13AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD613927-C535-41D6-8CCA-03CD32FC3520}
+	EndGlobalSection
+EndGlobal
